@@ -1,16 +1,53 @@
-## Hi there 👋
+# Bonjour !
 
-<!--
-**N0tFond/N0tFond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+NotFound, développeur web front end en apprentissage, c'est une passion depuis toujours.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Je ne suis pas encore développeur confirmer, mon principal objectif est de pouvoir devenir développeur à plein temps dans le futur_
+
+---
+
+# Compétences
+
+<h2 align=center>Langages</h2>
+<p align=center>
+<code><img src="imgs/html_logo.png" height=30/></code>&nbsp; |
+<code><img src="imgs/CSS3_logo.png" height=30/></code>&nbsp; |
+<code><img src="imgs/Tailwind.png" height=30/></code>
+</p>
+
+---
+
+<h2 align=center>Framework</h2>
+<p align=center>
+<code><img src="imgs/Vue.png" height=30/></code>&nbsp; |
+<code><img src="imgs/NodeJs.png" height=30/></code>&nbsp;
+</p>
+
+---
+
+<h2 align=center>Outils</h2>
+<p align=center>
+<code><img src="imgs/VsCode.png" height=30/></code> &nbsp; |
+<code><img src="imgs/Visual.png" height=30/></code> &nbsp; |
+<code><img src="imgs/Git.png" height=30/></code>
+</p>
+
+---
+
+<h2 align=center>En cours d'apprentissage</h2>
+<p align=center>
+<code><img src="imgs/Js_Logo.png" height=30/></code>&nbsp; |
+<code><img src="imgs/CSharp.png" height=30/></code>
+</code> 
+</p>
+
+---
+
+<div align="center">
+    <p align="center">
+        Nombre de vues : <br>
+        <img src="https://profile-counter.glitch.me/N0tFond/count.svg" align="center" />
+    </p>
+</div>
