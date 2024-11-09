@@ -38,7 +38,7 @@ _Je ne suis pas encore développeur confirmer, mon principal objectif est de pou
 
 <h2 align=center>En cours d'apprentissage</h2>
 <p align=center>
-<code><img src="imgs/JS_Logo.png" height=30/></code>&nbsp; |
+<code><img src="imgs/JS_logo.png" height=30/></code>&nbsp; |
 <code><img src="imgs/CSharp.png" height=30/></code>
 </code> 
 </p>
