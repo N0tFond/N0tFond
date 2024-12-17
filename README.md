@@ -51,3 +51,13 @@ _Je ne suis pas encore développeur confirmer, mon principal objectif est de pou
         <img src="https://profile-counter.glitch.me/N0tFond/count.svg" align="center" />
     </p>
 </div>
+
+---
+
+<div align="center">
+
+![NotFound's Github Stats](https://github-readme-stats.vercel.app/api?username=N0tFond&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0tFond&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
