@@ -58,6 +58,6 @@ _Je ne suis pas encore développeur confirmer, mon principal objectif est de pou
 
 ![NotFound's Github Stats](https://github-readme-stats.vercel.app/api?username=N0tFond&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0tFond&layout=donut-vertical&theme=transparent)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0tFond&layout=donut-vertical&theme=transparent)
 
 </div>
