@@ -14,7 +14,7 @@ _Je ne suis pas encore développeur confirmer, mon principal objectif est de pou
 <p align=center>
 <code><img src="imgs/html_logo.png" height=30/></code>&nbsp; | &nbsp;
 <code><img src="imgs/CSS3_logo.png" height=30/></code>&nbsp; | &nbsp;
-<code><img src="imgs/Tailwind.png" height=30/></code>
+<code><img src="imgs/Tailwind.png" height=30/></code>&nbsp; 
 </p>
 
 ---
@@ -29,6 +29,7 @@ _Je ne suis pas encore développeur confirmer, mon principal objectif est de pou
 
 <h2 align=center>Outils</h2>
 <p align=center>
+<code><img src="imgs/JetBrains_beam_logo.svg" height=45/></code> &nbsp; | &nbsp; 
 <code><img src="imgs/codium_cnl.png" height=30/></code> &nbsp; | &nbsp; 
 <code><img src="imgs/VsCode.png" height=30/></code> &nbsp; | &nbsp;
 <code><img src="imgs/Visual.png" height=30/></code>&nbsp; | &nbsp;
@@ -40,7 +41,9 @@ _Je ne suis pas encore développeur confirmer, mon principal objectif est de pou
 <h2 align=center>En cours d'apprentissage</h2>
 <p align=center>
 <code><img src="imgs/JS_logo.png" height=30/></code>&nbsp; | &nbsp;
-<code><img src="imgs/CSharp.png" height=30/></code>
+<code><img src="imgs/java-logo-1.png" height=45/></code>&nbsp; | &nbsp;
+<code><img src="imgs/mysql.png" height=35/></code>&nbsp; | &nbsp;
+<code><img src="imgs/php-logo.png" height=30/></code>&nbsp;
 </code> 
 </p>
 
