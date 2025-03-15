@@ -4,7 +4,7 @@
 
 NotFound, développeur web front end en apprentissage, c'est une passion depuis toujours.
 
-_Je ne suis pas encore développeur confirmer, mon principal objectif est de pouvoir devenir développeur à plein temps dans le futur_
+_Je ne suis pas encore développeur confirmé, mon principal objectif est de pouvoir devenir développeur à plein temps dans le futur_
 
 ---
 
