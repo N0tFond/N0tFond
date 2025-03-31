@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript,**
 
-- 👨‍💻 All of my projects are available at [notfound-dev.vercel.app/](notfound-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [notfound-dev.vercel.app/](https://notfound-dev.vercel.app/)
 
 - ⚡ Fun fact **I learn fast but not very good way**
 
