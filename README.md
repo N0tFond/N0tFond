@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG03Y3NvOXNmZHVhYjVmbzk5dXQ4aXlyNzV2MGFtd2E1bTRmamtkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" width="1000" height="500" style="border-radius: 10px; margin-bottom: 20px;" alt="Coding Animation">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG03Y3NvOXNmZHVhYjVmbzk5dXQ4aXlyNzV2MGFtd2E1bTRmamtkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" width="400" height="200" style="border-radius: 10px; margin-bottom: 20px;" alt="Coding Animation">
   <h1>Hi 👋, I'm NotFound</h1>
   <h3>A passionate Frontend Developer from France 🇫🇷</h3>
 </div>
