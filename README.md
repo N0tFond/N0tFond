@@ -1,15 +1,29 @@
 <div align="center">
-  <img src="./imgs/banner.gif" width="1000" height="300" style="border-radius: 10px; margin-bottom: 20px;" alt="Coding Animation">
-  <h1>Hi 👋, I'm NotFound</h1>
-  <h3>A passionate Frontend Developer from France 🇫🇷</h3>
+  <img src="./imgs/banner.gif" width="900" height="250" style="border-radius: 10px; margin-bottom: 20px;" alt="Coding Animation">
+  
+  <h1>Hi <span>👋</span>, I'm <b>NotFound</b></h1>
+  <h3>🇫🇷 Frontend Developer | Passionate about Web & UI/UX</h3>
+  
+  <p>
+    <a href="https://notfound-dev.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+    <img src="https://img.shields.io/github/followers/N0tFond?label=Follow&style=for-the-badge" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/N0tFond/N0tFond?style=for-the-badge" alt="Stars"/>
+  </p>
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🌱 I'm currently learning **React** and improving my **JavaScript** skills
-- 💼 Portfolio: [notfound-dev.vercel.app](https://notfound-dev.vercel.app/)
-- 🚀 Always eager to learn new technologies
+- 🌱 Currently learning **React** & deepening my **JavaScript** skills
+- Always eager to learn new technologies
 - 💡 Quick learner with a growth mindset
+- 🧩 Love building beautiful and functional UIs
+- 📫 How to reach me: see below!
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -41,15 +55,19 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N0tFond&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N0tFond&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=N0tFond&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=N0tFond&theme=radical&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0tFond&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0tFond&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -59,12 +77,25 @@
 
 ---
 
-**📝 Note**
+## � Contact
 
-The banner GIF was sourced from [Tenor](https://tenor.com/bQh2q.gif)
+<div align="center">
+  <a href="mailto:notfound.dev@proton.me"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/notfound-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/N0tFond" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</div>
 
 ---
 
+---
+
+<details>
+<summary>📝 <b>Note</b></summary>
+
+<p>Banner GIF sourced from <a href="https://tenor.com/bQh2q.gif">Tenor</a></p>
+
+</details>
+
 <div align="center">
-    <sub>Made with ❤️ by NotFound
+  <sub>Made with ❤️ by NotFound</sub>
 </div>
