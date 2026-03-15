@@ -106,5 +106,4 @@
 
 <div align="center">
   <sub>Made with ❤️ by NotFound</sub>
->>>>>>> fb1eea166bbd4c6c3e2be6bc7d4e4510e912822f
 </div>
