@@ -108,8 +108,6 @@ _I'm not yet a confirmed developer, my main objective is to become a full-time d
 
 ## 📊 GitHub Stats
 
-> > > > > > > fb1eea166bbd4c6c3e2be6bc7d4e4510e912822f
-
 <h2 align=center>Projects</h2>
 <p align=center>
 <a href="https://www.curseforge.com/minecraft/mc-mods/discordbridge">DiscordBridge</a>
@@ -118,12 +116,10 @@ _I'm not yet a confirmed developer, my main objective is to become a full-time d
 ---
 
 <div align="center">
-<<<<<<< HEAD
     <p align="center">
         View Count : <br>
         <img src="https://profile-counter.glitch.me/N0tFond/count.svg" align="center" />
     </p>
-=======
   <img src="https://github-readme-stats.vercel.app/api?username=N0tFond&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=N0tFond&theme=radical&hide_border=false" alt="GitHub Streak" />
