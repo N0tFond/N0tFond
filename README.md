@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hello!
 
 ---
@@ -45,7 +44,9 @@ _I'm not yet a confirmed developer, my main objective is to become a full-time d
 </p>
 
 ---
+
 =======
+
 <div align="center">
   <img src="./imgs/banner.gif" width="900" height="250" style="border-radius: 10px; margin-bottom: 20px;" alt="Coding Animation">
   
@@ -106,7 +107,8 @@ _I'm not yet a confirmed developer, my main objective is to become a full-time d
 ---
 
 ## 📊 GitHub Stats
->>>>>>> fb1eea166bbd4c6c3e2be6bc7d4e4510e912822f
+
+> > > > > > > fb1eea166bbd4c6c3e2be6bc7d4e4510e912822f
 
 <h2 align=center>Projects</h2>
 <p align=center>
