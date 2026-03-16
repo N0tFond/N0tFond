@@ -59,10 +59,17 @@
 
 ## 📊 GitHub Stats
 
-<h2 align=center>Projects</h2>
-<p align=center>
-<a href="https://www.curseforge.com/minecraft/mc-mods/discordbridge">DiscordBridge</a>
-</p>
+<h2 align="center">📋 Projects</h2>
+
+<div align="center">
+  <p>
+    <strong>DiscordBridge</strong><br/>
+    <em>A Minecraft mod to connect your server to Discord</em><br/><br/>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/discordbridge">
+      <img src="https://img.shields.io/badge/CurseForge-DiscordBridge-FF6B35?style=for-the-badge&logo=curseforge&logoColor=white" alt="DiscordBridge"/>
+    </a>
+  </p>
+</div>
 
 ---
 
